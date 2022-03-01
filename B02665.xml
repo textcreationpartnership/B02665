@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dainty dialogue between Henry and Elizabeth. Being the good wives vindication, and the bad husbands reformation. This new composed gallant ditty, is to be sung in town and city. This ballad is both compriz'd and penn'd to teach bad husbands how their lives to mend: all you good wives, the which bad husbands have, for your own good, let me this favour crave, one penny on this ditty to bestow, and carry it to your husbands for to show; it may in time make you twice over glad, when as you see him good that was so bad. The tune is, The tyrant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1677?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02665</idno>
+            <idno type="STC">Wing D121</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[65]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[100]</idno>
+            <idno type="EEBO-CITATION">99887090</idno>
+            <idno type="PROQUEST">ocm99887090</idno>
+            <idno type="VID">183293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183293)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[65]; A5:2[84])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dainty dialogue between Henry and Elizabeth. Being the good wives vindication, and the bad husbands reformation. This new composed gallant ditty, is to be sung in town and city. This ballad is both compriz'd and penn'd to teach bad husbands how their lives to mend: all you good wives, the which bad husbands have, for your own good, let me this favour crave, one penny on this ditty to bestow, and carry it to your husbands for to show; it may in time make you twice over glad, when as you see him good that was so bad. The tune is, The tyrant.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray, T. Passenger, and W. VVhitwood.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[between 1670-1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Come hither sweet husband ..."</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="100" facs="tcp:183293:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>A dainty new Dialogue between HENRY and ELIZABETH. Being the good Wives Vindication, and the bad Husbands Reformation.</head>
+            <argument>
+               <p>This new compoſed gallant Ditty, is to be ſung in Town and City.</p>
+               <lg>
+                  <l>This Ballad is both compriz'd and penn'd</l>
+                  <l>To teach bad Husbands how their lives to mend:</l>
+                  <l>All you good Wives, the which bad Husbands have,</l>
+                  <l>For your own good, let me this favour crave,</l>
+                  <l>One Penny on this Ditty to beſtow,</l>
+                  <l>And carry it to your Husbands for to ſhow;</l>
+                  <l>It may in time make you twice over glad,</l>
+                  <l>When as you ſee him good that was ſo bad.</l>
+               </lg>
+            </argument>
+            <opener>The Tune is, <hi>The Tyrant.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <l>COme hither ſweet Husband</l>
+               <l>and liſten to me,</l>
+               <l>Thou know'ſt I have alwayes</l>
+               <l>been faithful to thée;</l>
+               <l>A noble minde to thée,</l>
+               <l>I ever did carry,</l>
+               <l>Since firſt I came acquainted</l>
+               <l>with my loving <hi>Harry:</hi>
+               </l>
+               <l>Moreover thou know'ſt,</l>
+               <l>
+                  <hi>I</hi> lov'd of my life,</l>
+               <l>To keep thée alive,</l>
+               <l>ſince thou mad'ſt me thy Wife.</l>
+            </sp>
+            <sp>
+               <speaker>Harry.</speaker>
+               <l>Me thinks <hi>Beſs</hi> your tongue runs</l>
+               <l>a little too large,</l>
+               <l>That you ſhould lay ſuch</l>
+               <l>bitter things to my charge;</l>
+               <l>As to ſay that my life,</l>
+               <l>you did preſerve and ſave,</l>
+               <l>Or elſe I had been dead,</l>
+               <l>and ſo laid in my grave;</l>
+               <l>Pray tell me the reaſon,</l>
+               <l>why you did ſay ſo,</l>
+               <l>That people may hear it,</l>
+               <l>before we do go.</l>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <l>Then in the firſt place,</l>
+               <l>I will tell thée my mind;</l>
+               <l>To me and my Children,</l>
+               <l>thou haſt been unkind:</l>
+               <l>And what ſhould have ſerv'd us.</l>
+               <l>at home to maintain,</l>
+               <l>Thou haſt in the Alehouſe</l>
+               <l>waſted in vain:</l>
+               <l>Amongſt merry fellows,</l>
+               <l>and ſuch as thou art,</l>
+               <l>Whileſt I ſat at home</l>
+               <l>with a ſorrowful heart,</l>
+            </sp>
+            <sp>
+               <speaker>Harry.</speaker>
+               <l>Why, this of a truth <hi>Beſs</hi>
+               </l>
+               <l>is far and near known,</l>
+               <l>I never ſpént any mans</l>
+               <l>Goods, but mine own;</l>
+               <l>Nor are they alive,</l>
+               <l>that of me can ſay,</l>
+               <l>That I have took from them</l>
+               <l>one penny away:</l>
+               <l>I never did ſtranger,</l>
+               <l>nor neighbour no wrong,</l>
+               <l>With thought of my heart,</l>
+               <l>or with word of my tongue.</l>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <l>
+                  <hi>In</hi> ſpending thy own Goods,</l>
+               <l>thou alſo ſpend'ſt mine,</l>
+               <l>Which has done much injury</l>
+               <l>to thee and mine;</l>
+               <l>Thou haſt pawn'd our beſt clothes</l>
+               <l>when thou money didſt lack,</l>
+               <l>The Cloak from thy ſhoulders,</l>
+               <l>and the Gown from my back:</l>
+               <l>Thou haſt ſpent all thy money</l>
+               <l>thou getſt, in exceſs,</l>
+               <l>
+                  <hi>In</hi> Dicing and Drabbing,</l>
+               <l>and foul Drunkenneſs.</l>
+            </sp>
+            <sp>
+               <speaker>Harry.</speaker>
+               <l>Indeed it is true, <hi>I</hi> have</l>
+               <l>ſometimes been drunk,</l>
+               <l>Amongſt honeſt good fellows,</l>
+               <l>but <hi>I</hi> never lov'd Punk</l>
+               <l>Though my credit be crackt,</l>
+               <l>and my Garments be poor,</l>
+               <l>
+                  <hi>It</hi> came not with ſpending</l>
+               <l>my means on a Whore:</l>
+               <l>Therefore ſpeak the beſt,</l>
+               <l>and the worſt that you can,</l>
+               <l>
+                  <hi>I</hi> have been, and will be</l>
+               <l>a true honeſt man.</l>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <l>WHen as in the Counter</l>
+               <l>for Dept thou did'ſt lye,</l>
+               <l>Thy friends all forſook thee,</l>
+               <l>ſave onely <hi>I;</hi>
+               </l>
+               <l>Thou know'ſt <hi>I</hi> took pains,</l>
+               <l>and did every day ſtrive,</l>
+               <l>To comfort my <hi>Harry,</hi>
+               </l>
+               <l>and keep him alive:</l>
+               <l>And now let the world judge</l>
+               <l>between you and me,</l>
+               <l>If <hi>I</hi> was not faithful</l>
+               <l>and honeſt to thee.</l>
+            </sp>
+            <sp>
+               <speaker>Harry.</speaker>
+               <l>VVhy now loving VVife,</l>
+               <l>
+                  <hi>I</hi> am forc'd to confeſs,</l>
+               <l>VVhen <hi>I</hi> was in priſon,</l>
+               <l>in woe and diſtreſs;</l>
+               <l>Thou didſt work to maintain me</l>
+               <l>like a true hearted VVife,</l>
+               <l>Thou wrought'ſt my redemption</l>
+               <l>and ſo ſav'd my life:</l>
+               <l>And now demand of me</l>
+               <l>what ever thou will,</l>
+               <l>Ile do my endeavour,</l>
+               <l>thy mind to fulfill.</l>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <l>Then thus <hi>I</hi> would have thee,</l>
+               <l>where ever you be,</l>
+               <l>Remember your Children,</l>
+               <l>and think upon me;</l>
+               <l>Look well to thy buſineſs,</l>
+               <l>take heed what you ſpend,</l>
+               <l>And have a care how you</l>
+               <l>do borrow or lend:</l>
+               <l>At no time be idle,</l>
+               <l>but follow thy labour,</l>
+               <l>And ſo thou ſhalt ſee,</l>
+               <l>God will bleſs thy endeavour.</l>
+            </sp>
+            <sp>
+               <speaker>Harry.</speaker>
+               <l>Thy counſel is good wife,</l>
+               <l>a courſe <hi>I</hi> will take,</l>
+               <l>All kind of good fellowſhip</l>
+               <l>quite to forſake;</l>
+               <l>If <hi>I</hi> by chance péep in</l>
+               <l>at the Alehouſe door,</l>
+               <l>VVhen <hi>I</hi> have ſpent two pence,</l>
+               <l>
+                  <hi>I</hi> will ſpend no more:</l>
+               <l>
+                  <hi>I</hi> know this, that alewives</l>
+               <l>like Bees will ſuck honey;</l>
+               <l>But they ſhall henceforth have</l>
+               <l>but little of my money.</l>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <l>Keep promiſe ſweet <hi>Harry,</hi>
+               </l>
+               <l>and ſee to thy ſelf,</l>
+               <l>VVhen poor men ſpend all,</l>
+               <l>alewives get the more wealth:</l>
+               <l>But if all good fellows,</l>
+               <l>will be ruled by me,</l>
+               <l>Some alewives ſhould not go</l>
+               <l>ſo fine as they be:</l>
+               <l>They ſhould work for their live<g ref="char:EOLhyphen"/>ings,</l>
+               <l>as other folks do,</l>
+               <l>Both knit, ſowe, and ſpin,</l>
+               <l>and do other things too.</l>
+            </sp>
+            <sp>
+               <speaker>Harry.</speaker>
+               <l>Indeed ſome proud Hoaſteſſes</l>
+               <l>wears Gay gold Rings,</l>
+               <l>Their Gowns lac'd with ſilver,</l>
+               <l>and other rare things;</l>
+               <l>VVhilſt honeſt pain-takers</l>
+               <l>do travel about,</l>
+               <l>VVith the knees of their breeches</l>
+               <l>and elbows worn out:</l>
+               <l>But to conclude, <hi>Betty,</hi>
+               </l>
+               <l>to make thee amends.</l>
+               <l>Ile be a good Husband,</l>
+               <l>let's kiſs and be friends</l>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
